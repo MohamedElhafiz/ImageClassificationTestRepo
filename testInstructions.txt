@@ -1,0 +1,6 @@
+- In this test you are supposed to build a classification model that is used to determine whether an image includes a crack or not.
+- The file dataset.zip that resides within this repo includes images that are either positive or negative for having cracks. 
+- The images are labelled using seperate directories (positive/ negative). They are also splitted into training and testing data.
+- You are supposed to train/validate your model using the training set(feel free create augmented images if that helps you).
+- The resutls of the model on the test set should be discussed.
+- All steps to create the model should be demonstrated and justified in any convinient way that you prefer(github repo/ colab project/etc.)
